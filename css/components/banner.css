@@ -1,0 +1,19 @@
+.banner{
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  display: flex;
+  justify-items: center;
+  align-items: center;
+}
+
+.banner h1{
+  color: antiquewhite;
+  text-align: left;
+}
+.banner p {
+  color: rgba(255, 255, 255, 0.704);
+  font-weight:700;
+  margin-bottom: 50px;
+  text-align: left;
+}
